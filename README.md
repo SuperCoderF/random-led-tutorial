@@ -1,15 +1,9 @@
 
 > Open this page at [https://supercoderf.github.io/random-led-tutorial/](https://supercoderf.github.io/random-led-tutorial/)
 
-## Use as Extension
+## tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/supercoderf/random-led-tutorial** and import
-
+* [tutorial](/tutorial)
 ## Edit this project ![Build status badge](https://github.com/supercoderf/random-led-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
