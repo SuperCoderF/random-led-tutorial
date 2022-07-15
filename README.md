@@ -3,7 +3,7 @@
 
 ## tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/random led tutorial/tutorial)
 ## Edit this project ![Build status badge](https://github.com/supercoderf/random-led-tutorial/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
